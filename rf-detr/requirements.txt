@@ -1,0 +1,5 @@
+rfdetr==1.11.2
+fastapi
+uvicorn
+python-multipart
+requests

@@ -4,7 +4,7 @@ Projeto de pesquisa para entender dois modelos de visão computacional, testá-l
 
 Regra seguida em todo o projeto: **nada de resultado, link ou preço inventado**. Cada resultado abaixo diz se foi testado ou se é só pesquisa.
 
-Última atualização: 14/10/2026.
+Última atualização: 14/10/2026. Relatório técnico do estado atual: [DOCUMENTACAO_PROJETO.md](DOCUMENTACAO_PROJETO.md).
 
 ---
 
@@ -199,6 +199,8 @@ Descubra o IP do PC com `ipconfig` (linha "Endereço IPv4") e abra `http://ESSE_
 
 ```
 README.md                    este arquivo
+DOCUMENTACAO_PROJETO.md      relatório técnico do estado atual, pendências e preparo para Oracle
+.env.example                 nome da variável HF_TOKEN (sem valor)
 docs/relatorio-pesquisa.md   relatório completo da pesquisa (14/10/2026)
 jev-omni/                    exemplos do Jev-Omni (Space remoto e uso local com GPU)
 rf-detr/                     exemplos do RF-DETR (teste local, API FastAPI e cliente)

@@ -1,0 +1,4 @@
+rfdetr==1.11.2
+gradio
+gradio_client
+opencv-python-headless
